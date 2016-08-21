@@ -1,0 +1,137 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Wine & Cider</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/styles.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+	<div class="navbar-default navbar-static-top navHeader">
+
+		<a href="index.html" class="navbar-brand links navLinks">The Big Time</a>
+		<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+
+		<div class="navbar-collapse navHeaderCollapse collapse">
+			<ul class="nav navbar-nav navbar-right" style="margin-right:0;">
+				<li class="links hidden-lg hidden-xl"><a href="#"></a></li>
+				<li class="links"><a href="taps.html" class="navLinks">Now on Tap</a></li>
+				<li class="links"><a href="grub.html" class="navLinks">The Grub</a></li>
+				<li class="links"><a href="wine.html" class="navLinks">Wine/Cider</a></li>
+				<li class="links"><a href="brewery.html" class="navLinks">The Brewery</a></li>
+				<li class="links" style="margin-right:5px"><a href="about.html" class="navLinks">About Us</a></li>
+			</ul>
+		</div>
+
+	</div>
+	
+	<div class="container-fluid center-block text-center row col-xs-cd-12 pictureHolder hidden-sm hidden-xs" id="pictureFrame">
+		<img src="img/rexLg.jpg" alt="I'm a mutha f***in T-Rex!" class="img-responsive">
+	</div>
+
+	<div class="indexBody center-block container row col-lg-12">
+	<img src="img/logoHeader.png" alt="Header" class="img-responsive center-block mobileHeader hidden-md hidden-lg">
+		<div class="textHolder center-block col-sm-12 row">
+		<div class="container" id="tapBanner">
+			<h1 class="text-center drinkHeader">Wine/Cider</h1>
+		</div>
+		<div class="container">
+		
+			<h2><u>Bigtime Grapevine</u></h2>
+			<h2><strong>Bubbly</strong></h2>
+		
+			<p class="grayBox"><strong>J. Rog&eacute;t</strong> -  Brute - California<br>
+			Medium dry sparkling whtie wine with tasty fruit notes.</p>		
+		
+			<p><strong>The Jimmy</strong><br>
+			Equal parts <strong>J. Rog&eacute;t</strong> and Cock n' Bull Ginger Beer. <em>The owner's favorite</em></p>
+		
+			<h2><strong>Whites</strong></h2>
+		
+			<p class="grayBox"><strong>Sauvignon Blanc</strong> - Dashwood - Marlborough - 2013<br>
+			Light and citrusy with a few green notes. The wind world's IPA.</p>
+		
+			<p><strong>Chardonnay </strong> - Line 39 - California - 2012<br>
+			Classic green apple and pear with just a touch of toast. Well balanced and bright.</p>
+		
+			<h2><strong>Reds</strong></h2>
+		
+			<p class="grayBox"><strong>Pint Noir</strong> - Backhouse - Sonoma - 2013<br>
+			A delicate red with some backbone and a firm fruit.</p>
+		
+			<p><strong>Zinfandel</strong> - Oak Grove - Arroyo Seco - 2013<br>
+			Ripe blueberry and blackberry spiced with pepper makes this Zin rich and well rounded.</p>
+		
+			<h2><strong>Ros&eacute;</strong></h2>
+		
+			<p class="grayBox"><strong>Mr. Pink</strong> - Washington - 201<br>
+			Made with 100% Sangovese, this Washington Ros&eacute; is a perfect balance of bright berry fruit and crisp acidity.</p>
+		
+		</div>
+		
+		<div class="container">
+		
+			<h2><u>Big Time Orchard</u></h2>
+		
+			<h2><strong>Draft</strong></h2>
+		
+			<p><strong>Bright Cider</strong> - Two Towns - Corvallis, OR<br>
+			Clean crisp slightly dry cider is made exclusively with fresh pressed NW apples. This cider is always a bright idea! 6% ABV</p>
+		
+			<p class="grayBox"><strong>Atlas Blackberry</strong> - Atlas Hard Cider Co. - Bend, OR<br>
+			Made with a blend of blackberries and elderberries to give a slight tartness and semi-sweet finish. 6.2% ABV</p>		
+		
+			<p><strong>Tieton Apricot</strong> - Tieton Cider Works - Tieton, WA<br>
+			Tart apricot and ripe apple flavors make this the perfect semi-dry cider. 6.9% ABV</p>
+		
+			<h2><strong>Bottles</strong></h2>
+		
+			<p class="grayBox"><strong>Hatchet Apple Cider</strong> - Sonoma Cider - Healsburg, CA<br>
+			A sweet cider made from all organic apples. With ripe apple aromas and a clean but lively finish, this cider is sure to please the palate. 6% ABV</p>
+		
+			<p><strong>Baked Apple Cider</strong> - D's Wicked Cider - Kennewick<br>
+			As sweet and delicious as apple pie, this cider is wicked good! 8.5% ABV</p>
+		
+		</div>
+		
+		<div class="container">
+			<h2><u>Juice & Soda</u></h2>
+			<p>Jones Cola, Jones Diet Cola, Jones Lemon-Lime Soda, Thomas Kemper Root Beer, Cock n' Bull Ginger Beer, Organic Ice Tea, Lemonade, Cranberry Juice, Orange Pineapple Juice</p>
+		</div>
+		<h1 class="text-center drinkHeader">Stumptown Cold Brew Coffee on Nitro</h1>
+	</div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-2.0.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/custom.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>

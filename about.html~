@@ -1,0 +1,85 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>About Us</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/styles.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+	<div class="navbar-default navbar-static-top navHeader">
+
+		<a href="index.html" class="navbar-brand links navLinks">The Big Time</a>
+		<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+
+		<div class="navbar-collapse navHeaderCollapse collapse">
+			<ul class="nav navbar-nav navbar-right" style="margin-right:0;">
+				<li class="links hidden-lg hidden-xl"><a href="#"></a></li>
+				<li class="links"><a href="taps.html" class="navLinks">Now on Tap</a></li>
+				<li class="links"><a href="grub.html" class="navLinks">The Grub</a></li>
+				<li class="links"><a href="wine.html" class="navLinks">Wine/Cider</a></li>
+				<li class="links"><a href="brewery.html" class="navLinks">The Brewery</a></li>
+				<li class="links" style="margin-right:5px"><a href="about.html" class="navLinks">About Us</a></li>
+			</ul>
+		</div>
+
+	</div>
+	
+	<div class="container-fluid center-block text-center row col-xs-cd-12 pictureHolder hidden-sm hidden-xs" id="pictureFrame">
+		<img src="img/neonLg.jpg" alt="neon" class="img-responsive">
+	</div>
+
+	<div class="indexBody center-block container row col-lg-12">
+		<img src="img/logoHeader.png" alt="Header" class="img-responsive center-block mobileHeader hidden-md hidden-lg">
+		<div class="textHolder center-block col-sm-12 row">
+		<div class="container">
+			<p>Big Time Brewery and Alehouse has been in business in Seattle's colorful "U-District" since 1988. We are Seattle's original brew pub. A classic American Alehouse located in an old yellow brick building with high ceilings and lots of stained wood. The pub has an antique bar, an extensive bottle and can collection, numerous historical brewery photographs, and lots of old beer signs and trays.</p>
+			<p>Big Time usually has at least 10 ales on tap, plus a featured cask-conditioned "real ale" on the hand pump. Our standard brews are: Prime Time Pale Ale, Atlas Amber Ale, Coal Creek Porter, and Bhagwan's Best IPA which are on tap at all times. The other three taps and the cask conditioned pump rotate from week to week with some of the many specialty beers we produce over the year.</p>
+			<p>The kitchen features pizza, sandwiches, salads, tasty snacks and changing daily specials. We serve generous portions at very reasonable prices. Food is available until 11:00pm.</p>
+			<p>The pub is open from 11:30am to 12:30am seven days a week and brewery tours are available Monday through Friday during the day, or by appointment.</p>
+			<p>Minors are allowed in the pub 'til 8pm.</p>
+			<p class="grayBox">Address:<br>
+			<a href="https://goo.gl/maps/juNK2S6bf8x" target="_blank" id="addressLink">4133 University Way Northeast<br>
+			Seattle WA 98105</a></p>
+			<p>Open 11:30am - Last Call<br>
+			Sun-Thurs 12:30am<br>
+			Fri-Sat - 1:30am</p>
+			<p><strong>Phone: 206-545-4509</strong></p>
+		</div>
+	</div>
+</div>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-2.0.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/custom.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>
