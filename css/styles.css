@@ -20,7 +20,7 @@ a {
   font-family: KeepCalm;
 }
 body {
-  background-color: #d3d3d3;
+  background-color: #ffffff;
 }
 #addressLink {
   color: #333333;
@@ -60,7 +60,7 @@ center-block,
 .mainBody,
 .textHolder,
 .pictureHolder .topLayer {
-  background-color: #d3d3d3;
+  background-color: #ffffff;
 }
 #pictureFrame,
 .slideshowPictures {
@@ -90,7 +90,7 @@ center-block,
   border-radius: 10px;
 }
 .navHeaderCollapse {
-  margin-left: 150px;
+  margin-left: 200px;
 }
 .headerHolder {
   display: flex;
