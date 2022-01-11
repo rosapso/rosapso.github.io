@@ -51,11 +51,11 @@
 		<div class="container" id="tapBanner">
 			<h1 class="text-center"><strong>Now on tap</strong></h1>
 
-<p><h1 class="text-center"><u><a href="https://www.clover.com/online-ordering/big-time-brewery-seattle" id="addressLink"><strong>Click Here Place an Order Online </strong></a></u></h1><br>
-			<h2 class="text-center"><em>As of Friday 01/10/2022</em></h2> <br>
+<p><h1 class="text-center"><u><a href="https://ordering.app/bigtimebrewery/" id="addressLink"><strong>Click Here Place an Order Online </strong></a></u></h1><br>
+			<h2 class="text-center"><em>As of Friday 07/02/2021</em></h2> <br>
 			
 			
-			<h1 class="text-center"><strong>22 oz. Bottles of Old Wooly AVAILABLE!</strong></h1>
+			<!--<h1 class="text-center"><strong>MORE 22 oz. Bottles of Old Wooly AVAILABLE Monday 12/21!</strong></h1>--!>
 			<br>
 			<!--<h1 class="text-center"><u><a href="brewery.html" id="addressLink"><strong>Order a keg!</strong></a></u></h1>)
 			<!--<p>For sales inquiries please contact us via email: sales@bigtimebrewery.com or 206-545-4509 </P>-->
@@ -67,25 +67,22 @@
 			<p class="grayBox"><strong>Scarlet Fire IPA</strong> -  Our Flagship IPA is brewed with a technique known as First Wort Hopping.  This is a full-bodied hop forward, Northwest IPA.  Dry Hopped with Chinook and Cascade.   7.2% 65 IBUs<br>
 			</p>
 			
-			<p><strong>Simcoelation IPA</strong> - Featuring 100% malt from Skagit Valley Malting. We used their salmon safe Wintmalt Pale for the base, with light additions of Triticale and Munich for a unique and flavorful malt character. Heavily hopped with Simcoe and Cascade for notes of pine, citrus, and light grassy undertones.6.4% abv 55 IBU's <br>
-			</p>
-			
-			<!--<p><strong>ICCULUS IPA</strong> - This one features Nelson Sauvin hops from New Zealand as well as Citra hops from the Yakima valley of Washington.  Fruity and delicious is the “Great and Knowledgeable Icculus”   
-			6% 40 IBUs<br>-->
+			<p><strong>ICCULUS IPA</strong> - This one features Nelson Sauvin hops from New Zealand as well as Citra hops from the Yakima valley of Washington.  Fruity and delicious is the “Great and Knowledgeable Icculus”   
+			6% 40 IBUs<br>
 
 			<p class="grayBox">Hoponessa IPA</strong> -  2-row, crystal, and wheat malts provide a rich body and a crisp finish. Hopped with Citra in the boil and loads more  added in dry hops. Lychee and lemongrass added in the brite. A delectable beer by all rights.   6%   40 IBUs<br>
 			</p>
 			
-			<p><strong>This is Our Time Hazy IPA</strong> - Bairds Golden Promise pale malt, Canada’s flaked oats, Skagits Triticale, and a touch of C-40 caramel malt creates a rich body that supports amazing hop flavor. Ahtanum late hop additions in the kettle with loads of Galaxy and Chinook in the dry hop. This beer is packed with flavors of blueberry, passionfruit, and citrus. Recipe created by associate brewer Troy Kilburn. This hazy boi is dank and delicious!    6.6% abv 24 IBU's<br>
-			</p>
-			
-			<p class="grayBox">Best Coast IPA</strong> - Showcasing Skagit Valley's Copeland pale malt as the base, with additions of white wheat, and Vienna. Amarillo and Comet hops in the kettle with Citra, Cascade, and more Comet in the dry hop. Superbly brite with a clean and balanced hop flavor.     6.5% abv 50 IBU's<br>
-			</p>
-			
+			<p><strong>Time In Disguise IPA</strong> - Citra, Cascade, and Amarillo hops, with Copeland Pale, Copeland Pilsner, and Vienna malt. Notes of light citrus and floral spice. 6.5% 50 IBU’S<br>
+
 			<!--<p><strong>Everybody Wins IPA</strong> - Brewed with Skagit Valley's Copeland Pale, flaked oats, and Great Western 2-row. Hopped with Huell Melon, Citra, and Galaxy for a burst of melon, mango, and citrus. 
 			6.3% 40 IBUs<br>
 			 </p>-->
 			 
+			
+			</p>
+			
+			
 			<!--<p><strong> Ascension IPA</strong> - Golden Promise, flaked Oats, flaked barley, buckwheat, and wheat creates a uniquely soft pillowy mouthfeel and a beautiful haze. Hopped with Galaxy, Citra, and Azacca. A burst of tropical orange deliciousness to the taste buds.
 			6.7% 50 IBUs<br>
 			</p>-->
@@ -355,9 +352,9 @@
 			<!--<p><strong>Crop Top Hefeweizen</strong> - Our friends at Flying Bike Brewing used the yeast pulling method of “Top Cropping”. This takes constant observations and timing, and the timing couldn't have been more perfect for this spring time refreshment! Notes of banana, light spice, and Cara Cara orange added during fermentation.   5%   10 IBUs<br>
 			</p>-->
 			
-			<!--<p  class="grayBox"><strong>Kölsch 45</strong> - Traditional Klösch-style German ale brewed with Skagit ner and wheat malts. Bittered with German Magnum and finished with Saaz hops. Clean, crisp, and delicately balanced. Finishes dry. Prost!
+			<p  class="grayBox"><strong>Kölsch 45</strong> - Traditional Klösch-style German ale brewed with Skagit ner and wheat malts. Bittered with German Magnum and finished with Saaz hops. Clean, crisp, and delicately balanced. Finishes dry. Prost!
 			5%<br>
-			</p>-->
+			</p>
 			
 			<p><strong>Big City Pilsner Vienna Edition</strong> - A rich and clean pilsner showcasing Skagit Valley's Francis Pilsner and Vienna malts at a 50/50 blend. Hopped Kazbek and Chinook  provide notes of light spice and citrus. A true beauty to beerhold!  5%   20 IBUs<br>
 			</p>
@@ -365,9 +362,9 @@
 			<p  class="grayBox"><strong>Sour SMASH</strong> - A fruited kettle sours, this version features oodles of raspberry and blueberry fruit from Oregon Fruit Products. Perfectly tart and insanely refreshing 7.5%<br>
 			</p>
 			
-			<!--<p><strong>Oolala Barrel Smash Sour</strong> - Aged in white and red wine barrels for 16 months with blackberries, then blended.  Notes of delicate berry, wine grapes, and oak. 
+			<p><strong>Oolala Barrel Smash Sour</strong> - Aged in white and red wine barrels for 16 months with blackberries, then blended.  Notes of delicate berry, wine grapes, and oak. 
 			7.8%<br>
-			</p>->
+			</p>
 			
 			<!--<p  class="grayBox"><strong>Dreaming Of Summer Palesnar</strong> -Brewed exclusively with Skagit Valley Talisman Pilsner malt and fermented with Loki Kviek yeast. Kazbek, German Magnum, and Mt. Hood hops in the kettle creates a light earthy spice with a citrus overtone. Dry hopped with Amarillo for  a  little extra kick of lemony goodness. 5%   20 IBUs <br>
 			</p>-->
@@ -524,7 +521,7 @@
 
 			</h2><h2><strong>Malty</strong></h2>
 			
-			<p><strong>Old Wooly Barleywine 2021</strong> - It is always powerfully malty with a prodigious amount of hops for balance,
+			<p><strong>Old Wooly Barleywine</strong> - It is always powerfully malty with a prodigious amount of hops for balance,
 			9.9%  30 IBU’s <br>
 			 </p>
 	
@@ -535,9 +532,9 @@
 			<p><strong>Coal Creek Porter</strong> - A blend of dark malts and crystal malts gives our Porter a rich and smooth texture with a chocolatey finish. Hopped with Magnum, Liberty and Centennial. 5.4%<br>
 			 </p>
 			 
-			<p  class="grayBox">Breakfast Cereal Killer Stout</strong> -Double chocolate coffee oatmeal Stout, brewed with Cheerios, Wheaties, Corn Flakes, Rice Krispies, Coco Puffs, Lucky Charms, and Cinnamon Toast Crunch in the Mash along with Cocoa Nibs. There are even more Cocoa Nibs in the Kettle and featuring Onda Coffee in the Brite. Breakfast of champions in a glass!
+			<!--<p  class="grayBox">Breakfast Cereal Killer Stout</strong> -Double chocolate coffee oatmeal Stout, brewed with Cheerios, Wheaties, Corn Flakes, Rice Krispies, Coco Puffs, Lucky Charms, and Cinnamon Toast Crunch in the Mash along with Cocoa Nibs. There are even more Cocoa Nibs in the Kettle and featuring Onda Coffee in the Brite. Breakfast of champions in a glass!
 			8.5%	30IBUs<br>
-			</p>
+			</p>-->
 			
 			
 			<!--<p><strong>Bock to Hell </strong> - Karlsberg Brewing in Germany joined us in Seattle to brew a traditional Helles Bock with a PNW twist. Skagit Valley Munich, Vienna, and Copeland Pilsner malts provide the backbone for this seasonal lager. Pröst! 7%  18 IBU’s <br>
